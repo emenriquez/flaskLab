@@ -21,6 +21,5 @@
     }
   },
   "onCreateCommand": "pip install -r requirements.txt",
-  "postCreateCommand": "",
-  "hostRequirements": {"cpus": 4}
+  "postCreateCommand": ""
 }
